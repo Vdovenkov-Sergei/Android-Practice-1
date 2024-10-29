@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Практика</string>
+    <string name="hint_greeting_text">Ваше приветствие</string>
+    <string name="hint_name_text">Ваше имя</string>
+    <string name="button_enter">Ввести</string>
+    <string name="button_back">Назад</string>
+    <string name="empty">...</string>
+</resources>

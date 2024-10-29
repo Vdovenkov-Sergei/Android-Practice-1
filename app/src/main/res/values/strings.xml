@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Practice</string>
+    <string name="hint_greeting_text">Your greeting</string>
+    <string name="hint_name_text">Your name</string>
+    <string name="button_enter">Enter</string>
+    <string name="button_back">Back</string>
+    <string name="empty">...</string>
+</resources>
